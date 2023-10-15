@@ -1,17 +1,17 @@
 
-## Evolution of Evangelion Clock 
+## Evolution of Evangelion Timer 
 Neon Genesis Evangelion (EVA) is an anime series that span over 26 years of production.
 
 I think the GUI (Graphical User Interface) designs in EVA might be inspiring for graphic designers. And it is quite interesting to see how the design preferences changed over time.
 
-In this repository, I listed out all the **Evangelion Clock** appearance in the series. For those who like the anime and graphic design, enjoy!
+In this repository, I listed out all the **Evangelion Timer** appearance in the series. For those who like the anime and graphic design, enjoy!
 
 > Note the higher resolution gif files are under `images\large\`
 
 > **WARNING**: This repo is large (>260MB).
 
 
-## Evangelion Clocks Design
+## Evangelion Timers Design
 
 | Episode ID | Timestamp | From Status | To Status | Design | Remarks | Preview |
 |---|---|---|---|---|---|---|
